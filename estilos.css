@@ -1,3 +1,9 @@
 body {
-    color: blue;
+    color: rgb(72, 72, 155);
+    padding: 20px;
+    background-color: rgb(31, 13, 36);
+}
+
+#prueba {
+    color: rgb(255, 255, 255);
 }
